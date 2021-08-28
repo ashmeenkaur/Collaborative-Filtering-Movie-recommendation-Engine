@@ -1,4 +1,4 @@
-# Collaborative-Filtering-Movie-recommendation-Enginer
+# Collaborative-Filtering-Movie-recommendation-Engine
 
 Steps to run:
 1. Download web2py framework: http://www.web2py.com/init/default/download
